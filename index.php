@@ -21,13 +21,29 @@
 
   <meta name="theme-color" content="#fafafa">
 </head>
+<header>
+  <div class="body">
+    <nav>
+      <a href="index.php">home</a>
+      <a href="index.php">home</a>
+      <a href="index.php">home</a>
+      <a href="index.php">home</a>
+    </nav>
+  </div>
+</header>
 
 <body>
   <div class="body">
   <!-- Add your site or application content here -->
-    <h1>supercouster-nv</h1>
+    <div class="header">
+      <h1>supercouster-nv</h1>
+    </div>
     <div class="img">
       <img src="img/achtbaan.png" alt="achtbaan">
+    </div>
+    <h1>het karretje </h1>
+    <div class="img">
+      <img src="img/karrtje.png" alt="karretje">
     </div>
   </div>
 
