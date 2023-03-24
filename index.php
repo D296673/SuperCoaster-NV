@@ -25,6 +25,8 @@
 <body>
 
   <!-- Add your site or application content here -->
+  <h1>supercouster-nv</h1>
+  <img src="img/achtbaan.png" alt="achtbaan">
 
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
